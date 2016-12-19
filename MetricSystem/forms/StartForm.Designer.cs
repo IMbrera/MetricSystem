@@ -42,7 +42,7 @@
             this.circular.Dock = System.Windows.Forms.DockStyle.Fill;
             this.circular.Font = new System.Drawing.Font("Microsoft Sans Serif", 28F, System.Drawing.FontStyle.Bold);
             this.circular.ForeColor = System.Drawing.Color.Red;
-            this.circular.InnerColor = System.Drawing.SystemColors.GrayText;
+            this.circular.InnerColor = System.Drawing.Color.DarkSlateGray;
             this.circular.InnerMargin = 8;
             this.circular.InnerWidth = -1;
             this.circular.Location = new System.Drawing.Point(0, 0);
